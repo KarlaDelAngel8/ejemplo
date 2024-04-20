@@ -1,0 +1,14 @@
+/*.contenedor{
+    background-image: url(espacio.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 750px;
+    background-color: black;
+}*/
+img{
+    background-position: center;
+    background-size: cover;
+    height: 750px;
+    background-repeat: repeat;
+}
